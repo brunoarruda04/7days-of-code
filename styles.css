@@ -1,6 +1,8 @@
 @import url("assets/css/cabecalho/cabecalho.css");
+@import url("assets/css/sobre-nos/sobre-nos.css");
 
 :root {
+    --azul-escuro: #101828;
     --branco: #FFFFFF;
     --cinza: #667085;
     --fonte-principal: 'Inter';

@@ -1,0 +1,8 @@
+@import url("sobre-nos-span.css");
+@import url("sobre-nos-titulo.css");
+@import url("sobre-nos-texto.css");
+
+.sobre-nos {
+    padding: 5em;
+    text-align: center;
+}
