@@ -1,0 +1,14 @@
+@import url("cabecalho-lista.css");
+@import url("cabecalho-item.css");
+@import url("cabecalho-link.css");
+
+.cabecalho {
+    margin: 1.5em 5em;
+}
+
+.cabecalho__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
