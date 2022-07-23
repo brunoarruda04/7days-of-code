@@ -1,0 +1,13 @@
+@import url("metrica.css");
+@import url("metrica-titulo.css");
+@import url("metrica-subtitulo.css");
+@import url("metrica-texto.css");
+
+.metricas {
+    align-items: center;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4, auto);
+    justify-content: center;
+    padding: 2em 5em;
+}
