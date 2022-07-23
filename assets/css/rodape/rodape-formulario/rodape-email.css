@@ -1,0 +1,11 @@
+.rodape__email {
+    border: 1px solid var(--cinza-rodape2);
+    border-radius: 8px;
+    width: 20%;
+    height: 3em;
+}
+
+.rodape__email::placeholder {
+    color: var(--cinza);
+    padding-left: 1em;
+}

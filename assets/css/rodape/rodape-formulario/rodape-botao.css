@@ -1,0 +1,8 @@
+.rodape__botao {
+    background: var(--vermelho-vinho);
+    border: 1px solid var(--vermelho-vinho);
+    border-radius: 8px;
+    color: var(--branco);
+    margin-left: 0.5em;
+    padding: 1em 1.2em;
+}

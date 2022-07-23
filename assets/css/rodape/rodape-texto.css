@@ -1,0 +1,6 @@
+.rodape__texto {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 1em 0;
+}

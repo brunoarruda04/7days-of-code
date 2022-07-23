@@ -1,0 +1,9 @@
+@import url("rodape-titulo.css");
+@import url("rodape-texto.css");
+@import url("rodape-formulario/rodape-formulario.css");
+@import url("rodape-copyright.css");
+
+.rodape {
+    margin: 5em 0;
+    text-align: center;
+}
