@@ -1,0 +1,7 @@
+.depoimentos__perfil-imagem {
+    background: url(../../../img/julia.png);
+    border-radius: 200px;
+    margin: 0 auto;
+    height: 56px;
+    width: 56px;
+}

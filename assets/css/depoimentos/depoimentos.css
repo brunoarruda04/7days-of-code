@@ -1,0 +1,11 @@
+@import url("depoimentos-span.css");
+@import url("depoimentos-titulo.css");
+@import url("depoimentos-perfil/depoimentos-perfil.css");
+
+.depoimentos {
+    background: var(--vermelho-degrade);
+    margin: 0 auto;
+    text-align: center;
+    padding: 4em 4em;
+    width: 80vw;
+}
