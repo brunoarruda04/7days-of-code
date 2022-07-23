@@ -1,0 +1,7 @@
+.vagas__span {
+    background: var(--vermelho-degrade);
+    border-radius: 16px;
+    color: var(--vermelho-vinho);
+    font-size: 14px;
+    padding: 0.2em 1em;
+}

@@ -1,0 +1,7 @@
+@import url("vagas-header/vagas-header.css");
+@import url("vagas-setores/vagas-setores.css");
+
+.vagas {
+    text-align: center;
+    padding: 5em 0;
+}

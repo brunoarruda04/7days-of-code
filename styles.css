@@ -1,16 +1,20 @@
 @import url("assets/css/cabecalho/cabecalho.css");
 @import url("assets/css/sobre-nos/sobre-nos.css");
 @import url("assets/css/metricas/metricas.css");
+@import url("assets/css/vagas/vagas.css");
 
 :root {
     --azul-escuro: #101828;
     --branco: #FFFFFF;
     --cinza: #667085;
+    --cinza-claro: #EAECF0;
     --fonte-principal: 'Inter';
+    --vermelho-degrade: rgba(142, 36, 36, 0.05);
     --vermelho-vinho: #8E2424;
 }
 
 body {
+    background: var(--branco);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 500;

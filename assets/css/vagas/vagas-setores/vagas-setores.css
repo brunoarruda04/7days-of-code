@@ -1,0 +1,7 @@
+@import url("vagas-setores-disponiveis-titulo.css");
+@import url("cargo/cargo.css");
+
+.vagas-setores {
+    width: 60%;
+    margin: 0 auto;
+}
