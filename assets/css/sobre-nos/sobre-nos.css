@@ -6,3 +6,8 @@
     padding: 5em;
     text-align: center;
 }
+
+.sobre-nos__container {
+    display: grid;
+    justify-content: center;
+}

@@ -1,0 +1,8 @@
+.sobre-nos__texto {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+    justify-content: center;
+    margin: 0 auto;
+    width: 65%;
+}
