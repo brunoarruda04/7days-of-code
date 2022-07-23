@@ -1,4 +1,3 @@
-## ⚠️ Status: Desenvolvimento
 # 🔵 7DaysofCode ™ 
 Desafio de 7 dias proposto pela Alura.
 
@@ -14,4 +13,4 @@ Uma empresa de TI quer desenvolver uma páginad estinada a novas contratações 
   <li>CSS</li>
 </ul>
 
-
+## ✔️ Status: Finalizado
